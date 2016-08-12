@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="str_one">USERONE</string>
+    <string name="str_two">USERTWO</string>
+    <string name="str_number">100000</string>
+    <string name="str_delete">Record Deleted Successfully..</string>
+    <string name="str_update">Record Updated Successfully..!  \n</string>
+    <string name="str_insert">Record Inserted Successfully..</string>
+    <string name="str_name">" Name : USERTWO"</string>
+    <string name="str_sal">" Salary : 200000."</string>
+</resources>
